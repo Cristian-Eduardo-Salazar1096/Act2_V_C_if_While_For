@@ -27,6 +27,9 @@ Actividad 2 Variables, Cadenas, if, While y For
 - SINO else
 
 ![image](https://github.com/user-attachments/assets/a6314fc8-98bc-4e98-bd04-6e87168bb627)
+
+- Resultado
+
 ![image](https://github.com/user-attachments/assets/dc1eb360-3214-496d-9afa-6c21ad92ad4b)
 
 - While
@@ -38,3 +41,11 @@ Actividad 2 Variables, Cadenas, if, While y For
 ![image](https://github.com/user-attachments/assets/53cd7716-e2b5-4f47-a144-2a69b43ef06a)
 
 - For
+
+![image](https://github.com/user-attachments/assets/7cc3a2d2-b73c-4aeb-a496-209c36c346e5)
+
+- Resultado
+
+![image](https://github.com/user-attachments/assets/34a9744d-b4f9-48e5-a1cc-20f228c2596e)
+
+
